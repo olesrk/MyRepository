@@ -1,0 +1,6 @@
+cd F:\УАБС\4 курс\Java\Lab1\src\ua\edu\uabs\sierik\lab1
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/olesrk/lab7upi.git
+git push -u origin master
